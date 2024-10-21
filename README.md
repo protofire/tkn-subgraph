@@ -115,10 +115,10 @@ TKN Hosted Services (TKN-HS) for The Graph is a platform that let you deploy sub
 
 |          | Endpoints                  | Explanation                                                  |
 |----------|----------------------------|--------------------------------------------------------------|
-| Index    | http://index.graph.tkn.xyz | This endpoint is used to deploy the subgraph.                |
-| Query    | http://query.graph.tkn.xyz | This endpoint is used to get data from the subgraph.         |
-| IPFS     | http://ipfs.graph.tkn.xyz  | This endpoint is used to store data builded by the subgraph. |
-| Grafana  | http://grafana.graph.tkn.xyz  | Monitoring dashboards for The Graph                          |  
+| Index    | https://index.graph.tkn.xyz | This endpoint is used to deploy the subgraph.                |
+| Query    | https://query.graph.tkn.xyz | This endpoint is used to get data from the subgraph.         |
+| IPFS     | https://ipfs.graph.tkn.xyz  | This endpoint is used to store data builded by the subgraph. |
+| Grafana  | https://grafana.graph.tkn.xyz  | Monitoring dashboards for The Graph                          |  
 
 
 ### Prerequisites
